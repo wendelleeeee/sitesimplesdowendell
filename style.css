@@ -41,7 +41,7 @@ nav li a:hover{
 }
 .banner{
     height: 100vh;
-    background: linear-gradient( rgba(110, 71, 71, 0.281), rgba(143, 81, 81, 0.308)),url('school-blackboard_1048-4547.jpg');
+    background: linear-gradient( rgba(110, 71, 71, 0.281), rgba(143, 81, 81, 0.308)),url('https://wallpapers.com/images/featured/cool-trucks-cdvn4ttk7o8geggz.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -65,7 +65,7 @@ nav li a:hover{
 }
 .texto .botoes button{
     height: 55px;
-    width: 170px;
+    width: 170px;do
     border-radius: 5px;
     border: 0;
     margin: 0 10px;
@@ -117,7 +117,7 @@ nav li a:hover{
 .overlay-button:hover {
     background-color: black;
     color: white;
-    text-decoration: none;
+    text-decoration: none;do
 }
 
 .n-overlay a{
