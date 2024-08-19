@@ -9,7 +9,7 @@ nav{
     padding: 15px 50px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: end;
 }
 nav .logo a{
     text-decoration: none;
